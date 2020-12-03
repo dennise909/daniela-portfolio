@@ -10249,7 +10249,7 @@ form .row:first-child .floating-label-form-group {
   top: 0;
   left: 0;
   width: 100%;
-  height: 200%;
+  height: 100%;
   overflow: hidden;
 }
 
